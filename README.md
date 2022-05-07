@@ -1,4 +1,4 @@
-P()ly Bl[]ck Audits} consists a team of hardcore coders and analysts extremely specialized in any blockchain technology. 
+{P()ly Bl[]ck Audits} consists a team of hardcore coders and analysts extremely specialized in any blockchain technology. 
 
 We started providing audits for smart contracts on any chain in the beginning of september 2021. We research and provide transparent information about the executed compiled smart contracts and provide development assistance if needed. Our audits can guarantee traders security of NOT being scammed, rug pulled or investing in a honeypot
 
